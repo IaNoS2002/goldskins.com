@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+steamcommunity.com	TRUE	/	FALSE	1999999999	sessionid	f88eba38bc6b66b314e25626
+steamcommunity.com	TRUE	/	FALSE	1999999999	steamCountry	RO%7Cfd8ed8f79a7abbcbe887d971c05eca7f
+
